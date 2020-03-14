@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/css-utilities/static/css/main.2daeb4fa.chunk.css",
+    "main.js": "/css-utilities/static/js/main.867bce31.chunk.js",
+    "main.js.map": "/css-utilities/static/js/main.867bce31.chunk.js.map",
+    "runtime-main.js": "/css-utilities/static/js/runtime-main.b5170f6b.js",
+    "runtime-main.js.map": "/css-utilities/static/js/runtime-main.b5170f6b.js.map",
+    "static/js/2.9496f881.chunk.js": "/css-utilities/static/js/2.9496f881.chunk.js",
+    "static/js/2.9496f881.chunk.js.map": "/css-utilities/static/js/2.9496f881.chunk.js.map",
+    "index.html": "/css-utilities/index.html",
+    "precache-manifest.7feeff6b9c40f3b324d50acacc741658.js": "/css-utilities/precache-manifest.7feeff6b9c40f3b324d50acacc741658.js",
+    "service-worker.js": "/css-utilities/service-worker.js",
+    "static/css/main.2daeb4fa.chunk.css.map": "/css-utilities/static/css/main.2daeb4fa.chunk.css.map",
+    "static/js/2.9496f881.chunk.js.LICENSE.txt": "/css-utilities/static/js/2.9496f881.chunk.js.LICENSE.txt",
+    "static/media/droplet.fecc594e.svg": "/css-utilities/static/media/droplet.fecc594e.svg",
+    "static/media/square.04be5621.svg": "/css-utilities/static/media/square.04be5621.svg",
+    "static/media/triangle.dfbba03b.svg": "/css-utilities/static/media/triangle.dfbba03b.svg",
+    "static/media/zap-off.a8947bb5.svg": "/css-utilities/static/media/zap-off.a8947bb5.svg",
+    "static/media/zap.610c57ea.svg": "/css-utilities/static/media/zap.610c57ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5170f6b.js",
+    "static/js/2.9496f881.chunk.js",
+    "static/css/main.2daeb4fa.chunk.css",
+    "static/js/main.867bce31.chunk.js"
+  ]
+}
